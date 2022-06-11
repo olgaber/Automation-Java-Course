@@ -26,5 +26,7 @@ public class OddEven {
             System.out.println(a + " is an ODD number");
         }
 
+        System.out.println("BYE");
+
     }
 }
