@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class isoscelesTriangle {
+public class IsoscelesTriangle {
     public static void main(String[] args) throws IOException {
         /*
         Написать программу, которая определяет, является ли треугольник со сторонами a, b, c равнобедренным.
