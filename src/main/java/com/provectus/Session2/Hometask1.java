@@ -44,4 +44,5 @@ public class Hometask1 {
         System.out.println(c + " degrees Celsius equal to " + k + " kelvins" );
         System.out.println(c + " degrees Celsius equal to " + f + " degrees Fahrenheit");
     }
+    
 }
