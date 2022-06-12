@@ -1,3 +1,5 @@
+package com.provectus.Session2;
+
 public class Hometask1 {
     public static void main(String[] args) {
 
